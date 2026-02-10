@@ -56,6 +56,8 @@ public class GestorUsuarios {
             return false;
         }
         
-        
+        /*
+         * nueva actualización
+         */
     }
 }
